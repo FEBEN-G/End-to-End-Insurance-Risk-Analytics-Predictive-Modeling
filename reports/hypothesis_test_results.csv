@@ -1,0 +1,5 @@
+Hypothesis,Metric,Test,P-Value
+No risk differences across provinces,Claim Frequency,ANOVA,5.91210036318191e-19
+No risk differences across top zip codes,Claim Frequency,ANOVA,4.578856430875725e-12
+No margin difference across top zip codes,Margin,ANOVA,0.3963641045672826
+No risk difference between Women and Men,Claim Frequency,T-Test,0.8404980845002314
